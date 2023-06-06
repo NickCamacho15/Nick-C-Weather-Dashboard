@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: lightblue;
+    color: white;
+}
+
+.search-section {
+    padding-top: 20px;
+}
+
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#search-btn {
+    margin-left: 10px;
+}
+
+#current-weather {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#forecast {
+    margin-top: 20px;
+}
+
+.forecast-card {
+    background-color: #7a92d5;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    margin: 10px;
+}
